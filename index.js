@@ -1,5 +1,6 @@
 const http = require('http');
 const EventEmitter = require('events');
+const logger = require('./logger');
 class AppServer extends EventEmitter {
   constructor() {
     super();
@@ -29,6 +30,7 @@ class AppServer extends EventEmitter {
   }
 }
 const app = new AppServer();
+logger.setupLogger(app);
 app.on('server:started', (port) => {
   console.log(`Сервер запущен на порту ${port}`);
 });
