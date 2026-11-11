@@ -1,0 +1,147 @@
+[
+  {
+    "name": "file_1.js",
+    "size": 500,
+    "ext": ".js"
+  },
+  {
+    "name": "file_2.json",
+    "size": 1000,
+    "ext": ".json"
+  },
+  {
+    "name": "file_3.jpg",
+    "size": 1500,
+    "ext": ".jpg"
+  },
+  {
+    "name": "file_4.png",
+    "size": 2000,
+    "ext": ".png"
+  },
+  {
+    "name": "file_5.gif",
+    "size": 2097152,
+    "ext": ".gif"
+  },
+  {
+    "name": "file_6.md",
+    "size": 3000,
+    "ext": ".md"
+  },
+  {
+    "name": "file_7.css",
+    "size": 3500,
+    "ext": ".css"
+  },
+  {
+    "name": "file_8.txt",
+    "size": 4000,
+    "ext": ".txt"
+  },
+  {
+    "name": "file_9.js",
+    "size": 4500,
+    "ext": ".js"
+  },
+  {
+    "name": "file_10.json",
+    "size": 2097152,
+    "ext": ".json"
+  },
+  {
+    "name": "file_11.jpg",
+    "size": 5500,
+    "ext": ".jpg"
+  },
+  {
+    "name": "file_12.png",
+    "size": 6000,
+    "ext": ".png"
+  },
+  {
+    "name": "file_13.gif",
+    "size": 6500,
+    "ext": ".gif"
+  },
+  {
+    "name": "file_14.md",
+    "size": 7000,
+    "ext": ".md"
+  },
+  {
+    "name": "file_15.css",
+    "size": 2097152,
+    "ext": ".css"
+  },
+  {
+    "name": "file_16.txt",
+    "size": 8000,
+    "ext": ".txt"
+  },
+  {
+    "name": "file_17.js",
+    "size": 8500,
+    "ext": ".js"
+  },
+  {
+    "name": "file_18.json",
+    "size": 9000,
+    "ext": ".json"
+  },
+  {
+    "name": "file_19.jpg",
+    "size": 9500,
+    "ext": ".jpg"
+  },
+  {
+    "name": "file_20.png",
+    "size": 2097152,
+    "ext": ".png"
+  },
+  {
+    "name": "sub1\\sub1_file_1.txt",
+    "size": 14,
+    "ext": ".txt"
+  },
+  {
+    "name": "sub1\\sub1_file_2.txt",
+    "size": 14,
+    "ext": ".txt"
+  },
+  {
+    "name": "sub1\\sub1_file_3.txt",
+    "size": 14,
+    "ext": ".txt"
+  },
+  {
+    "name": "sub2\\sub2_file_1.txt",
+    "size": 14,
+    "ext": ".txt"
+  },
+  {
+    "name": "sub2\\sub2_file_2.txt",
+    "size": 14,
+    "ext": ".txt"
+  },
+  {
+    "name": "sub2\\sub2_file_3.txt",
+    "size": 14,
+    "ext": ".txt"
+  },
+  {
+    "name": "sub3\\sub3_file_1.txt",
+    "size": 14,
+    "ext": ".txt"
+  },
+  {
+    "name": "sub3\\sub3_file_2.txt",
+    "size": 14,
+    "ext": ".txt"
+  },
+  {
+    "name": "sub3\\sub3_file_3.txt",
+    "size": 14,
+    "ext": ".txt"
+  }
+]

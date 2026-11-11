@@ -1,0 +1,88 @@
+{
+  "variant": 4,
+  "target": "C:\\Users\\Alisa\\lab14",
+  "directories": 17,
+  "filesCount": 39,
+  "totalSizeBytes": 47692,
+  "totalSizeMB": 0.05,
+  "byExtension": {
+    "(без расширения)": {
+      "count": 4,
+      "size": 464
+    },
+    ".sample": {
+      "count": 14,
+      "size": 26788
+    },
+    ".txt": {
+      "count": 8,
+      "size": 712
+    },
+    ".md": {
+      "count": 7,
+      "size": 168
+    },
+    ".json": {
+      "count": 1,
+      "size": 1809
+    },
+    ".js": {
+      "count": 5,
+      "size": 17751
+    }
+  },
+  "top5Big": [
+    {
+      "name": "task5.js",
+      "size": 6245,
+      "path": "C:\\Users\\Alisa\\lab14\\task5.js"
+    },
+    {
+      "name": "pre-rebase.sample",
+      "size": 4898,
+      "path": "C:\\Users\\Alisa\\lab14\\.git\\hooks\\pre-rebase.sample"
+    },
+    {
+      "name": "fsmonitor-watchman.sample",
+      "size": 4611,
+      "path": "C:\\Users\\Alisa\\lab14\\.git\\hooks\\fsmonitor-watchman.sample"
+    },
+    {
+      "name": "task3.js",
+      "size": 3725,
+      "path": "C:\\Users\\Alisa\\lab14\\task3.js"
+    },
+    {
+      "name": "update.sample",
+      "size": 3650,
+      "path": "C:\\Users\\Alisa\\lab14\\.git\\hooks\\update.sample"
+    }
+  ],
+  "top5Small": [
+    {
+      "name": "HEAD",
+      "size": 21,
+      "path": "C:\\Users\\Alisa\\lab14\\.git\\HEAD"
+    },
+    {
+      "name": "README.md",
+      "size": 24,
+      "path": "C:\\Users\\Alisa\\lab14\\project_4\\data\\input\\README.md"
+    },
+    {
+      "name": "README.md",
+      "size": 24,
+      "path": "C:\\Users\\Alisa\\lab14\\project_4\\data\\README.md"
+    },
+    {
+      "name": "README.md",
+      "size": 24,
+      "path": "C:\\Users\\Alisa\\lab14\\project_4\\data\\results\\README.md"
+    },
+    {
+      "name": "README.md",
+      "size": 24,
+      "path": "C:\\Users\\Alisa\\lab14\\project_4\\src\\components\\README.md"
+    }
+  ]
+}
