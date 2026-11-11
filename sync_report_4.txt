@@ -1,0 +1,24 @@
+Сравнение директорий: source_4 ↔ backup_4
+
+Совпадают: 12 файлов
+Изменены: 18 файлов
+  - file_1.js
+  - file_10.json
+  - file_16.txt
+  - file_17.js
+  - file_18.json
+  - file_2.json
+  - file_8.txt
+  - file_9.js
+  - manifest.json
+  - sub1\sub1_file_1.txt
+  - sub1\sub1_file_2.txt
+  - sub1\sub1_file_3.txt
+  - sub2\sub2_file_1.txt
+  - sub2\sub2_file_2.txt
+  - sub2\sub2_file_3.txt
+  - sub3\sub3_file_1.txt
+  - sub3\sub3_file_2.txt
+  - sub3\sub3_file_3.txt
+Добавлены: 0 файлов
+Удалены: 0 файлов
